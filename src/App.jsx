@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import UrlForm from "./components/Form/UrlForm";
-import Chatbot from "./components/Chatbot/ChatBot";
+import Chatbot from "./components/ChatBot/ChatBot";
 import FileDropZone from "./components/Form/FileDropZone";
 import { useFileScan } from "./hooks/useFileScan";
 import Auth from "./components/Auth/Auth";
